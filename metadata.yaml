@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3757
     wikipedia: http://en.wikipedia.org/wiki/Frederick_Palmer_%28journalist%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18497#My-Second-Year-of-the-War
 gutenberg_bookshelf:
 - Bestsellers, American, 1895-1923
 - World War I
